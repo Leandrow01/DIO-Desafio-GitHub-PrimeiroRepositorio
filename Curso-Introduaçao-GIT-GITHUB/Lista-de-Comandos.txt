@@ -1,0 +1,13 @@
+Principais comandos GIT:
+
+git clone - Realiza um clone de um repositório
+
+git status - Verifica se existe algum arquivo pendente para realizar uma "sincronização" no host local
+
+git add * - Efetua a adição de todos os arquivos modificados desde a ultima commit
+
+git commit -m "Descrição da Commit" - Realiza o commit dos ultimos dados alterados
+
+git push - Efetua a sincronização dos dados entre o host local e o servidor
+
+git pull - Efetua o "download" do arquivo contido no servidor para o host local.
