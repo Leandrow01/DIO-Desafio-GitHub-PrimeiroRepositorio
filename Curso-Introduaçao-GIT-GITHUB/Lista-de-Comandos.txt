@@ -1,5 +1,7 @@
 Principais comandos GIT:
 
+git init - Esse comando dá origem a um repositório novo, local ou remoto, ou reinicializa um repositório já existente.
+
 git clone - Realiza um clone de um repositório
 
 git status - Verifica se existe algum arquivo pendente para realizar uma "sincronização" no host local
@@ -11,3 +13,4 @@ git commit -m "Descrição da Commit" - Realiza o commit dos ultimos dados alter
 git push - Efetua a sincronização dos dados entre o host local e o servidor
 
 git pull - Efetua o "download" do arquivo contido no servidor para o host local.
+
